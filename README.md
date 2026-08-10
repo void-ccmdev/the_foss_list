@@ -12,6 +12,7 @@
     - [Image Viewers](#image-viewers)
     - [Web Browsers](#web-browsers)
 - [Development](#development-sofwtare-ᓚᘏᗢ)
+    -[Code Editors](#code-editors)
 - [Art Creation](#art-creation-software-️)
 - [System](#system-software-️)
 
@@ -36,11 +37,13 @@ All pull/commition requests will be reviewed within 3-5 days.
 - [<b>GNUMail</b>](https://www.nongnu.org/gnustep-nonfsf/gnumail/) -A simple yet blazing fast email client.
 - [<b>Geary</b>](https://wiki.gnome.org/Apps/Geary) -An email client by Gnome.
 - [<b>Roundcube</b>](https://roundcube.net/) -A FOSS webmail software with plugins.
+
 ### <i>Team chat / Meeting</i>
 - [<b>Jitsi Meet</b>](https://meet.jit.si/) -A secure and fast video meeting platform.
 - [<b>Jami</b>](https://jami.net/) -An encrypted P2P private communication software.
 - [<b>Nextcloud Talk</b>](https://nextcloud.com/talk/) -A privacy respecting communication software for online collaboration.
 - [<b>Big Blue Button</b>](https://bigbluebutton.org/) -A virtual classroom platform designed for schools and teachers.
+
 ### <i>Messaging / Calls (like WhatsApp)</i>
 - [<b>Signal</b>](https://signal.org/) -A modern, fast and private messaging app focused on privacy.
 - [<b>Session</b>](https://getsession.org/) -An encrypted, clean and minimal messaging app focused on user's control.
@@ -49,26 +52,38 @@ All pull/commition requests will be reviewed within 3-5 days.
 ## <b>Productivity Software</b> 📊📈
 
 ## <b>Media Software</b> 🎶📺
+
 ### <i>Video Players</i>
 - [<b>VLC</b>](https://www.videolan.org/vlc/) -A cross-platform, lightweight media (and music) player with skin support! 🔥
 - [<b>Haruna</b>](https://haruna.kde.org/) -A minimal video player by KDE.
 - [<b>Clapper</b>](https://github.com/Rafostar/clapper) -A modern video player with Hardware acceleration.
 - [<b>Kaffeine</b>](https://apps.kde.org/kaffeine/) -An advanced media player by KDE.
 - [<b>Deepin Movie</b>](https://www.deepin.org/en/original/deepin-movie/) -A linux-only video player with Apple-like user interface.
+
 ### <i>Music / Audio Players</i>
 - [<b>Dopamine</b>](https://github.com/digimezzo/dopamine) -An elegant audio player with cross-paltform support.
 - [<b>Amberol</b>](https://gitlab.gnome.org/World/amberol) -A simple music player that is well integrated with GNOME.
 - [<b>VLC</b>](https://www.videolan.org/vlc/) -A cross-platform, lightweight music (and video) player with skin support. 🔥
 - [<b>OpenTune</b>](https://opentune.netlify.app/) -An Android music client for Youtube music.
+
 ### <i>Image viewers</i>
 - [<b>Lighting View</b>](https://lightningview.app/) -A lightning-fast, open-source, cross-platform image viewer.
 - [<b>Viewnoir</b>](https://siyanpanayotov.com/project/viewnior/) -Viewnoir is a fast and user friendly image viewer for Linux systems.
+
 ### <i>Web Browsers</i>
 - [<b>Firefox</b>](https://www.firefox.com/) -A private web browser with fast and private browsing.
 - [<b>Waterfox</b>](https://www.waterfox.com/) -A firefox-based web browser with less bloat and faster + more private browing experience than [Firefox](https://www.firefox.com/). It also has built in ad-block.
 - [<b>LibreWolf</b>](https://librewolf.net/) -LibreWolf is an another [Firefox](https://www.firefox.com/) based web browser with more freedom and stable version releases.
 - [<b>Bussin Wattesigma</b>](https://wattesigma.com/) -A web browser with questionable user base by [FaceDev](https://github.com/face-hh)?
+
 ## <b>Development Sofwtare</b> 🧑‍💻ᓚᘏᗢ
+
+### <i>Code Editors</i>
+- [<b>Visual Studio Code</b>](https://code.visualstudio.com/) -A great IDE with huge customization possibilities by Microsoft.
+- [<b>VSCodium</b>](https://github.com/VSCodium/vscodium/) -An IDE based on [Visual Studio Code](https://code.visualstudio.com/) with less corpotare control.
+- [<b>Kate</b>](https://kate-editor.org/) -A fast, underrated and modern text editor with unbeleiveable coding support.
+- [<b>Lite</b>](https://github.com/rxi/lite/) -A lightweight text editor made in [Lua](https://www.lua.org/).
+- [<b>Lapce</b>](https://lap.dev/lapce/) -A lightning-fast and powerful code editor written in [Rust](https://rust-lang.org/)
 
 ## <b>Art Creation Software</b> 🎤🖌️
 
