@@ -7,6 +7,10 @@
     - [Messaging / Calls](#messaging--calls-like-whatsapp)
 - [Productivity](#productivity-software-)
 - [Media](#media-software-)
+    - [Video Players](#video-players)
+    - [Music / Audio players](#music--audio-players)
+    - [Image Viewers](#image-viewers)
+    - [Web Browsers](#web-browsers)
 - [Development](#development-sofwtare-ᓚᘏᗢ)
 - [Art Creation](#art-creation-software-️)
 - [System](#system-software-️)
@@ -45,12 +49,24 @@ All pull/commition requests will be reviewed within 3-5 days.
 ## <b>Productivity Software</b> 📊📈
 
 ## <b>Media Software</b> 🎶📺
-### <i>Video Players</b>
-- [<b>VLC</b>](https://www.videolan.org/vlc/) -A cross-platform, lightweight media player with skin support! 🔥
+### <i>Video Players</i>
+- [<b>VLC</b>](https://www.videolan.org/vlc/) -A cross-platform, lightweight media (and music) player with skin support! 🔥
 - [<b>Haruna</b>](https://haruna.kde.org/) -A minimal video player by KDE.
 - [<b>Clapper</b>](https://github.com/Rafostar/clapper) -A modern video player with Hardware acceleration.
 - [<b>Kaffeine</b>](https://apps.kde.org/kaffeine/) -An advanced media player by KDE.
 - [<b>Deepin Movie</b>](https://www.deepin.org/en/original/deepin-movie/) -A linux-only video player with Apple-like user interface.
+### <i>Music / Audio Players</i>
+- [<b>Dopamine</b>](https://github.com/digimezzo/dopamine) -An elegant audio player with cross-paltform support.
+- [<b>Amberol</b>](https://gitlab.gnome.org/World/amberol) -A simple music player that is well integrated with GNOME.
+- [<b>VLC</b>](https://www.videolan.org/vlc/) -A cross-platform, lightweight music (and video) player with skin support. 🔥
+### <i>Image viewers</i>
+- [<b>Lighting View</b>](https://lightningview.app/) -A lightning-fast, open-source, cross-platform image viewer.
+- [<b>Viewnoir</b>](https://siyanpanayotov.com/project/viewnior/) -Viewnoir is a fast and user friendly image viewer for Linux systems.
+### <i>Web Browsers</i>
+- [<b>Firefox</b>](https://www.firefox.com/) -A private web browser with fast and private browsing.
+- [<b>Waterfox</b>](https://www.waterfox.com/) -A firefox-based web browser with less bloat and faster + more private browing experience than [Firefox](https://www.firefox.com/). It also has built in ad-block.
+- [<b>LibreWolf</b>](https://librewolf.net/) -LibreWolf is an another [Firefox](https://www.firefox.com/) based web browser with more freedom and stable version releases.
+- [<b>Bussin Wattesigma</b>](https://wattesigma.com/) -A web browser with questionable user base by [FaceDev](https://github.com/face-hh)?
 ## <b>Development Sofwtare</b> 🧑‍💻ᓚᘏᗢ
 
 ## <b>Art Creation Software</b> 🎤🖌️
