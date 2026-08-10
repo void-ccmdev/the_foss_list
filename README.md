@@ -12,7 +12,7 @@
     - [Image Viewers](#image-viewers)
     - [Web Browsers](#web-browsers)
 - [Development](#development-sofwtare-ᓚᘏᗢ)
-    -[Code Editors](#code-editors)
+    - [Code Editors](#code-editors)
 - [Art Creation](#art-creation-software-️)
 - [System](#system-software-️)
 
