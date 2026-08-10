@@ -52,6 +52,13 @@ All pull/commition requests will be reviewed within 3-5 days.
 
 ## <b>Productivity Software</b> 📊📈
 
+### <i>Notes app</i>
+- [<b>Joplin</b>](https://joplinapp.org/) -A fast note-taking app, allowing access from any device.
+- [<b>Notesnook</b>](https://notesnook.com/) -"The private workspace for your life. No spying, no tracking, no bullsh*t. Just notes."
+- [<b>Tomboy New Generation</b>](https://github.com/tomboy-notes/tomboy-ng) -A cross-platform with Github synchronization.
+- [<b>Tagspaces</b>](https://www.tagspaces.org/)⭐ -A cross-platform, very advanced, modern and free file-based workspace. 
+- [<b>Trillium</b>](https://github.com/TriliumNext/Trilium)⭐ -A hierarchical, cross-platform note-taking app designed for <b>LARGE</b> personal knowledge bases.
+
 ## <b>Media Software</b> 🎶📺
 
 ### <i>Video Players</i>
