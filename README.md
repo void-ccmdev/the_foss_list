@@ -2,7 +2,7 @@
 ### <b>A list of the best free and opensource alternatives</b>
 
 - [Communication](#communication-software-️)
-    - [e-mail](#e-mail)
+    - [E-Mail](#e-mail)
     - [Team chat / Meeting](#team-chat--meeting)
     - [Messaging / Calls](#messaging--calls-like-whatsapp)
 - [Productivity](#productivity-software-)
@@ -15,8 +15,6 @@
 > This list is in active development and may not contain most of FOSS or may contain discontinued FOSS.
 > If you discover an issue, notice a good FOSS missing or spot an outdated FOSS, please create a pull reques with the applied changes for review.
 > Thank you! <3
-
-
 
 ## <b>Communication Software</b> 🔊✉️
 
@@ -38,7 +36,12 @@
 ## <b>Productivity Software</b> 📊📈
 
 ## <b>Media Software</b> 🎶📺
-
+### <i>Video Players</b>
+- [<b>VLC</b>](https://www.videolan.org/vlc/) -A cross-platform, lightweight media player with skin support! 🔥
+- [<b>Haruna</b>](https://haruna.kde.org/) -A minimal video player by KDE.
+- [<b>Clapper</b>](https://github.com/Rafostar/clapper) -A modern video player with Hardware acceleration.
+- [<b>Kaffeine</b>](https://apps.kde.org/kaffeine/) -An advanced media player by KDE.
+- [<b>Deepin Movie</b>](https://www.deepin.org/en/original/deepin-movie/) -A linux-only video player with Apple-like user interface.
 ## <b>Development Sofwtare</b> 🧑‍💻ᓚᘏᗢ
 
 ## <b>Art Creation Software</b> 🎤🖌️
