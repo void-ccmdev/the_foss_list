@@ -11,6 +11,15 @@
 - [Art Creation](#art-creation-software-️)
 - [System](#system-software-️)
 
+> No AI was used to create this list.
+> We do NOT support AI and will not use AI for these projects.
+
+Over 95% of the software contained in this list has been personally tested by [the creator of this list](https://github.com/void-ccmdev).
+This means there is almost 0 chance of downloading a virus or any other kind of unsafe software.
+To keep this repository updated, anyone can contribute by modifying / updating the list to an <code>"UP TO DATE"</code> state.
+All pull/commition requests will be reviewed within 3-5 days.
+<code>Please contribute!</code>
+
 > [!WARNING]
 > This list is in active development and may not contain most of FOSS or may contain discontinued FOSS.
 > If you discover an issue, notice a good FOSS missing or spot an outdated FOSS, please create a pull reques with the applied changes for review.
