@@ -20,8 +20,7 @@
 
 ## <b>System Software</b> 🤖🎛️
 
-> [!NOTE] 
-> ## How to contribute?
+> [!NOTE] How to contribute?
 > - Clone this repository to your computer.
 > - Edit the file with the new changes. (must follow the list rules)
 > - Create a pull request by following the github instructions.
