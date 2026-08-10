@@ -7,8 +7,22 @@
 > Thank you! <3
 
 
-
 ## <b>Communication Software</b> 🔊✉️
+
+### <i>E-Mail<i>
+- [<b>Thunderbird</b>](https://www.thunderbird.net/) -An email client by mozilla.
+- [<b>GNUMail</b>](https://www.nongnu.org/gnustep-nonfsf/gnumail/) -A simple yet blazing fast email client.
+- [<b>Geary</b>](https://wiki.gnome.org/Apps/Geary) -An email client by Gnome.
+- [<b>Roundcube</b>](https://roundcube.net/) -A FOSS webmail software with plugins.
+### <i>Team chat / Meeting</i>
+- [<b>Jitsi Meet</b>](https://meet.jit.si/) -A secure and fast video meeting platform.
+- [<b>Jami</b>](https://jami.net/) -An encrypted P2P private communication software.
+- [<b>Nextcloud Talk</b>](https://nextcloud.com/talk/) -A privacy respecting communication software for online collaboration.
+- [<b>Big Blue Button</b>](https://bigbluebutton.org/) -A virtual classroom platform designed for schools and teachers.
+### <i>Messaging / Calls (like WhatsApp)</i>
+- [<b>Signal</b>](https://signal.org/) -A modern, fast and private messaging app focused on privacy.
+- [<b>Session</b>](https://getsession.org/) -An encrypted, clean and minimal messaging app focused on user's control.
+- [<b>Element</b>](https://element.io/) -Free for personal use with modern interface and great security for privacy.
 
 ## <b>Productivity Software</b> 📊📈
 
