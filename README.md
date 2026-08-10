@@ -1,10 +1,21 @@
 # <b><i>The FOSS list</i></b>
 ### <b>A list of the best free and opensource alternatives</b>
 
+- [Communication](#communication-software-️)
+    - [e-mail](#e-mail)
+    - [Team chat / Meeting](#team-chat--meeting)
+    - [Messaging / Calls](#messaging--calls-like-whatsapp)
+- [Productivity](#productivity-software-)
+- [Media](#media-software-)
+- [Development](#development-sofwtare-ᓚᘏᗢ)
+- [Art Creation](#art-creation-software-️)
+- [System](#system-software-️)
+
 > [!WARNING]
 > This list is in active development and may not contain most of FOSS or may contain discontinued FOSS.
 > If you discover an issue, notice a good FOSS missing or spot an outdated FOSS, please create a pull reques with the applied changes for review.
 > Thank you! <3
+
 
 
 ## <b>Communication Software</b> 🔊✉️
@@ -37,7 +48,7 @@
 > [!NOTE] 
 > ### <b>How to contribute?</b>
 > - Clone this repository to your computer.
-> - Edit the file with the new changes. (must follow the list rules)
+> - Edit the file with the new changes. (must follow the list [rules](#contribution-rules))
 > - Create a pull request by following the github instructions.
 > - Wait up to 3 days for review and the list will get updated.
 > - Enjoy the changes <3
