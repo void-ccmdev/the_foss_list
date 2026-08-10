@@ -41,3 +41,14 @@
 > - Create a pull request by following the github instructions.
 > - Wait up to 3 days for review and the list will get updated.
 > - Enjoy the changes <3
+
+> [!IMPORTANT]
+> ### <b>Contribution rules!</b>
+> - Software must be categorized into a proper category.
+> - Sub-categories must be in italic.
+> - Categories must be in bold.
+> - Software names must be formated to match their branding (expl: GNUMail was advertised with exactly "GNUMail" -capital GNU and M for mail)
+> - Each software must have a simple yet truthful description.
+> - Software must have an URL with the official site and not github repository (unless no official website exists)
+> - Use appropriate and proffessional language.
+> - Commits must contain a detailed summrary and description describing exactly what the commit changes were.
