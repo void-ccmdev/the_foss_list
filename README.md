@@ -1,4 +1,4 @@
-# <b><i>The FOSS list</i></b>
+# <b><i>The FOSS list📜</i></b>
 ### <b>A list of the best free and opensource alternatives</b>
 
 - [Communication](#communication-software-️)
@@ -6,6 +6,7 @@
     - [Team chat / Meeting](#team-chat--meeting)
     - [Messaging / Calls](#messaging--calls-like-whatsapp)
 - [Productivity](#productivity-software-)
+    - [Note Taking](#note-taking)
 - [Media](#media-software-)
     - [Video Players](#video-players)
     - [Music / Audio players](#music--audio-players)
@@ -52,7 +53,7 @@ All pull/commition requests will be reviewed within 3-5 days.
 
 ## <b>Productivity Software</b> 📊📈
 
-### <i>Notes app</i>
+### <i>Note-taking</i>
 - [<b>Joplin</b>](https://joplinapp.org/) -A fast note-taking app, allowing access from any device.
 - [<b>Notesnook</b>](https://notesnook.com/) -"The private workspace for your life. No spying, no tracking, no bullsh*t. Just notes."
 - [<b>Tomboy New Generation</b>](https://github.com/tomboy-notes/tomboy-ng) -A cross-platform with Github synchronization.
