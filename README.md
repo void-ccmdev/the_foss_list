@@ -59,6 +59,7 @@ All pull/commition requests will be reviewed within 3-5 days.
 - [<b>Dopamine</b>](https://github.com/digimezzo/dopamine) -An elegant audio player with cross-paltform support.
 - [<b>Amberol</b>](https://gitlab.gnome.org/World/amberol) -A simple music player that is well integrated with GNOME.
 - [<b>VLC</b>](https://www.videolan.org/vlc/) -A cross-platform, lightweight music (and video) player with skin support. 🔥
+- [<b>Opentune</b>](https://github.com/Arturo254/OpenTune) -A Android Music App
 ### <i>Image viewers</i>
 - [<b>Lighting View</b>](https://lightningview.app/) -A lightning-fast, open-source, cross-platform image viewer.
 - [<b>Viewnoir</b>](https://siyanpanayotov.com/project/viewnior/) -Viewnoir is a fast and user friendly image viewer for Linux systems.
