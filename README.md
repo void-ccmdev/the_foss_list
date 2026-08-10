@@ -1,5 +1,5 @@
 # <b><i>The FOSS list📜</i></b>
-### <b>A list of the best free and opensource alternatives</b>
+### <b>A list of the best free and open-source alternatives</b>
 
 - [Communication](#communication-software-️)
     - [E-Mail](#e-mail)
