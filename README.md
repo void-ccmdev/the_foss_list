@@ -7,6 +7,7 @@
     - [Messaging / Calls](#messaging--calls-like-whatsapp)
 - [Productivity](#productivity-software-)
     - [Note Taking](#note-taking)
+    - [Calendars](#calendars)
 - [Media](#media-software-)
     - [Video Players](#video-players)
     - [Music / Audio players](#music--audio-players)
@@ -16,6 +17,8 @@
     - [Code Editors](#code-editors)
     - [Game Engines](#game-engines)
 - [Art Creation](#art-creation-software-️)
+    - [Painting programs](#painting-programs)
+    - [Image Editors](#image-editors)
 - [System](#system-software-️)
 
 > No AI was used to create this list.
@@ -56,9 +59,13 @@ All pull/commition requests will be reviewed within 3-5 days.
 ### <i>Note-taking</i>
 - [<b>Joplin</b>](https://joplinapp.org/) -A fast note-taking app, allowing access from any device.
 - [<b>Notesnook</b>](https://notesnook.com/) -"The private workspace for your life. No spying, no tracking, no bullsh*t. Just notes."
-- [<b>Tomboy New Generation</b>](https://github.com/tomboy-notes/tomboy-ng) -A cross-platform with Github synchronization.
+- [<b>Tomboy New Generation</b>](https://github.com/tomboy-notes/tomboy-ng) -A cross-platform note-taking app with Github synchronization.
 - [<b>Tagspaces</b>](https://www.tagspaces.org/)⭐ -A cross-platform, very advanced, modern and free file-based workspace. 
 - [<b>Trillium</b>](https://github.com/TriliumNext/Trilium)⭐ -A hierarchical, cross-platform note-taking app designed for <b>LARGE</b> personal knowledge bases.
+
+### <i>Calendars</i>
+- [<b>Fossify Calendar</b>](https://www.fossify.org/apps/calendar/) -An Android foss calendar with great community.
+- [<b>Simple Calendar</b>](https://simplecalendar.org/) -A "Simple" browser-based and app-based calenar with awesome simplicity.
 
 ## <b>Media Software</b> 🎶📺
 
@@ -98,9 +105,26 @@ All pull/commition requests will be reviewed within 3-5 days.
 - [<b>Godot Engine<b>](https://godotengine.org/)⭐ -A 3D and 2D game engine with a great community and powerful tools built-in.
 - [<b>O3DE</b>](https://github.com/o3de/o3de/) -Open 3D Game Engine is a real-time, cross-platform 3D game engine with AAA capabilities.
 - [<b>Stride</b>](https://github.com/stride3d/stride) -A [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) 3D game engine capable of AAA graphics and more.
-- [<b>OpenXRay</b>](https://github.com/OpenXRay/xray-16) -A powerful game engine used to build [S.T.A.L.K.E.R](https://www.stalker-game.com/).
+- [<b>OpenXRay</b>](https://github.com/OpenXRay/xray-16/) -A powerful game engine used to build [S.T.A.L.K.E.R](https://www.stalker-game.com/).
 
 ## <b>Art Creation Software</b> 🎤🖌️
+
+### <i>Painting programs</i>
+- [<b>Krita</b>](https://krita.org/en/)⭐ -A free, advanced painting program used by many professionals.
+- [<b>Pixelorama</b>](https://flathub.org/en/apps/com.orama_interactive.Pixelorama/) -A pixel-art & animation program made in [Godot](https://godotengine.org/) for Linux.
+- [<b>Pinta</b>](https://www.pinta-project.com/) -A cross-platform painting program with great features!
+- [<b>Tux Paint</b>](https://tuxpaint.org/) -A cross-platform, art software for kids of all ages!
+- [<b>Rnote</b>](https://flathub.org/en/apps/com.github.flxzt.rnote/) -Sketch and take handwritten notes. Rnote is a vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures. 
+
+### <i>Image editors</i>
+- [<b>GIMP</b>](https://www.gimp.org/)⭐ -The GNU Image Manipulator Program is a great professional tool and a great replacement for Photoshop.
+- [<b>Darktable</b>](https://www.darktable.org/) -A Non-destructive image editor great for photo-processing. (Lightroom like)
+- [<b>DigiKam</b>](https://www.digikam.org/) -A powerful, cross-platform organizer and open-source image software.
+
+### <i>Video Editors</i>
+- [<b>Kdenlive</b>](https://kdenlive.org/)⭐ -A powerful, modern and cross-platform video editing software developed by [KDE](https://kde.org/).
+- [<b>OpenShot</b>](https://www.openshot.org/) -An easy-to-use powerful video editor with simple user interface.
+- [<b>Pitivi</b>](https://www.pitivi.org/) -A video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community designed for for Linux.
 
 ## <b>System Software</b> 🤖🎛️
 
