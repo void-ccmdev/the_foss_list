@@ -28,7 +28,8 @@
 The FOSS list is a list of awesome free software that can work as a great alternative to big-corporate-software that sometimes doesn't support other OS or costs money.
 Free and Open Source Software was always the way to save money and now this list can show you awesome alternatives.
 
-> [!NOTE]⭐ == Approoved and battle-tested by many others.
+> [!NOTE]
+> ⭐ == Approoved and battle-tested by many others.
 >
 > No star == Not battle tested yet very useful.
 
