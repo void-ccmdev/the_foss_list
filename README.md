@@ -1,6 +1,7 @@
 # <b><i>The FOSS list📜</i></b>
 ### <b>A list of the best free and open-source alternatives</b>
 
+- [Introduction](#introduction)
 - [Communication](#communication-software-️)
     - [E-Mail](#e-mail)
     - [Team chat / Meeting](#team-chat--meeting)
@@ -20,6 +21,15 @@
     - [Painting programs](#painting-programs)
     - [Image Editors](#image-editors)
 - [System](#system-software-️)
+- [Contribute](#contribute-)💖
+
+## <i>Introduction</i>👋
+
+The FOSS list is a list of awesome free software that can work as a great alternative to big-corporate-software that sometimes doesn't support other OS or costs money.
+Free and Open Source Software was always the way to save money and now this list can show you awesome alternatives.
+
+> ⭐ == Approoved and battle-tested by many others.
+> No star == Not battle tested yet very useful.
 
 > No AI was used to create this list.
 > We do NOT support AI and will not use AI for these projects.
@@ -128,6 +138,7 @@ All pull/commition requests will be reviewed within 3-5 days.
 
 ## <b>System Software</b> 🤖🎛️
 
+## <i>Contribute</i> 💖
 > [!NOTE] 
 > ### <b>How to contribute?</b>
 > - Clone this repository to your computer.
