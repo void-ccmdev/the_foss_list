@@ -107,6 +107,7 @@ All pull/commition requests will be reviewed within 3-5 days.
 ## <b>Development Sofwtare</b> 🧑‍💻ᓚᘏᗢ
 
 ### <i>Code Editors</i>
+- [<b>Zed</b>](https://zed.dev/)⭐ -A FOSS, cross-platform blazing fast minimal code editor with extensions!
 - [<b>Visual Studio Code</b>](https://code.visualstudio.com/)⭐ -A great IDE with huge customization possibilities by [Microsoft](https://www.microsoft.com).
 - [<b>VSCodium</b>](https://github.com/VSCodium/vscodium/)⭐ -An IDE based on [Visual Studio Code](https://code.visualstudio.com/) with less corpotare control.
 - [<b>Kate</b>](https://kate-editor.org/) -A fast, underrated and modern text editor with unbeleiveable coding support.
